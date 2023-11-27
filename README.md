@@ -41,11 +41,11 @@ The Dataset consists of the qualitative and the quantitative parameters of the s
 			<td>Training</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td> subjects</td>
 			<td>Backlogs</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td> platforms</td>
 			<td>Certifications</td>
 		</tr>
 </table>
