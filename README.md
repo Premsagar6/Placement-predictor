@@ -67,4 +67,4 @@ There are multiple methods of plotting the data, two of which are given in this 
 The only difference is that the TSNE preserves the distances and it works better when there are huge number of dimensions.  
 
 K-Nearest Neighbour is then applied to the data.
-<img src="figure_1.png>
+
